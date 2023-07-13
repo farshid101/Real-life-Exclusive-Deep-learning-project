@@ -1,0 +1,7 @@
+The folder you have contains a project related to FX (foreign exchange) trading. It includes a new dataset that has been collected from the website www.tradingview.com. The dataset likely contains various types of information relevant to FX trading, such as currency pairs, historical prices, trading volumes, or other related data.
+
+In addition to the dataset, the folder also contains code related to the FX trading project. The code could be written in a programming language such as Python, R, or any other language commonly used for data analysis and trading purposes.
+
+The purpose of this project might be to analyze the FX market, develop trading strategies, or build predictive models based on the provided dataset. The code is likely designed to process and analyze the dataset, implement trading algorithms, or perform other relevant tasks in the context of FX trading.
+
+To gain a deeper understanding of the specific details and functionalities of the dataset and code, it would be necessary to explore the files within the folder and examine their contents.
